@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/spyRobo/static/css/main.5f52248a.chunk.css",
+    "main.js": "/spyRobo/static/js/main.049ef3b6.chunk.js",
+    "main.js.map": "/spyRobo/static/js/main.049ef3b6.chunk.js.map",
+    "runtime-main.js": "/spyRobo/static/js/runtime-main.ae03d023.js",
+    "runtime-main.js.map": "/spyRobo/static/js/runtime-main.ae03d023.js.map",
+    "static/js/2.7464025e.chunk.js": "/spyRobo/static/js/2.7464025e.chunk.js",
+    "static/js/2.7464025e.chunk.js.map": "/spyRobo/static/js/2.7464025e.chunk.js.map",
+    "static/js/3.c2bc6799.chunk.js": "/spyRobo/static/js/3.c2bc6799.chunk.js",
+    "static/js/3.c2bc6799.chunk.js.map": "/spyRobo/static/js/3.c2bc6799.chunk.js.map",
+    "index.html": "/spyRobo/index.html",
+    "static/css/main.5f52248a.chunk.css.map": "/spyRobo/static/css/main.5f52248a.chunk.css.map",
+    "static/js/2.7464025e.chunk.js.LICENSE.txt": "/spyRobo/static/js/2.7464025e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/spyRobo/static/media/portait.5a6cfe72.jpg",
+    "static/media/logo.6ce24c58.svg": "/spyRobo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae03d023.js",
+    "static/js/2.7464025e.chunk.js",
+    "static/css/main.5f52248a.chunk.css",
+    "static/js/main.049ef3b6.chunk.js"
+  ]
+}
